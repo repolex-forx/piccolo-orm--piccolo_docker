@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/piccolo-orm/piccolo_docker/commit/2bf2980c621cf02727c5049cb8d29a84b9dc18ef",
       "git:hexsha": "2bf2980c621cf02727c5049cb8d29a84b9dc18ef",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.1.0",
+      "repolex:parsedAt": "2026-10-20T22:21:51.188365+00:00"
     }
   ]
 }
